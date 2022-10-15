@@ -1,16 +1,17 @@
-# habit_tracker
+# Rastreador de Hábitos
 
-A new Flutter project.
+Projeto feito em Flutter de um rastreador de hábitos
 
-## Getting Started
+### Dependências Utilizadas
+-Flutter Slidable
+-Hive(Hive Generator e Build Runner)
+-Flutter Heatmap Calendar
 
-This project is a starting point for a Flutter application.
+### Descrição
+Projeto feito em Flutter de um rastreador de hábitos com opções para criar novos hábitos, marcar com checkbox, editar, deletar, e que atualiza diariamente com base no calendário para acompanhar a frequência da conclusão dos hábitos. Com a ajuda da dependência Hive, o aplicativo guarda as informações no aparelho e pode ser fechado quantas vezes quiser sem perder dados.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+####Imagens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ht1](https://user-images.githubusercontent.com/59840894/196010534-551868c8-392b-4e7b-ad85-b3870cc233fb.png)
+![ht2](https://user-images.githubusercontent.com/59840894/196010536-7bd6ced4-bd73-4d8d-a6a8-a463275deb6d.png)
