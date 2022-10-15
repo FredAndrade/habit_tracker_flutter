@@ -3,9 +3,9 @@
 Projeto feito em Flutter de um rastreador de hábitos
 
 ### Dependências Utilizadas
-..* Flutter Slidable
-..* Hive(Hive Generator e Build Runner)
-..* Flutter Heatmap Calendar
+* Flutter Slidable
+* Hive(Hive Generator e Build Runner)
+* Flutter Heatmap Calendar
 
 ### Descrição
 Projeto feito em Flutter de um rastreador de hábitos com opções para criar novos hábitos, marcar com checkbox, editar, deletar, e que atualiza diariamente com base no calendário para acompanhar a frequência da conclusão dos hábitos. Com a ajuda da dependência Hive, o aplicativo guarda as informações no aparelho e pode ser fechado quantas vezes quiser sem perder dados.
